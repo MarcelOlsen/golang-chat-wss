@@ -26,7 +26,7 @@ Will probably use in some future project
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/golang-chat-wss.git
+   git clone https://github.com/MarcelOlsen/golang-chat-wss.git
    cd golang-chat-wss
    ```
 
